@@ -60,7 +60,7 @@ export default function Japanese() {
 
                     <h3>N5 Level Vocab</h3>
                     <p>
-                        Essentially start doing this deck daily: https://ankiweb.net/shared/info/1679429599<br />
+                        Essentially start doing this deck daily: <a href="https://ankiweb.net/shared/info/1679429599">https://ankiweb.net/shared/info/1679429599</a><br />
                         If you do 10 new cards daily, you'll be done with new cards in just over 3 months.
                     </p>
                     <h3>RRTK - Remembering the Kanji</h3>
