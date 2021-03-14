@@ -15,18 +15,22 @@ export default function Japanese() {
                     <h1>Getting Started with Japanese</h1>
 
                     <p>
-                        This is a simplified starting guide for learning Japanese.  We will focus on the shortest amount of steps to get you started on your Japanese language learning.  Some steps will be listed as optional, or are generally less important.  The most important part is you getting started learning. Even if all the tools and techniques aren't 100% optimized, you can still be successful in language learning.
+                        This is a simplified starting guide for learning Japanese.  We will focus on the shortest amount of steps to get you started on your Japanese language learning.  Some steps will be listed as optional, or have some links to additional reading that you can review when you have time. Don't be worried if all the tools and techniques aren't tweaked 100% perfectly, what's most important is just starting and being consistent.<br /><br />
+
+                        A lot of our guide and recommendations are inspired by the ideas taught from <a href="https://refold.la/about">Refold.la</a>.  I would highly recommend reading stages 0 and 1 at some point.  I wouldn't worry about the details too much if you're just starting (the most important thing is just starting and staying consistent with your practice!).  When you've gone through most of this guide you'd be ready to read stage 2!
                     </p>
 
                     <h2>0. Anki</h2>
                     <p>
-                        Anki is a really powerful flashcard system that will be super useful in your language learning journey.   While its core functionality is simple, it's HIGHLY customized, and can be complex at times.  For getting started we'll try and keep the setup simple.
+                        Anki is a really powerful flashcard system that will be super useful in your language learning journey.   While its core functionality is simple, it's HIGHLY customizable, and can be complex at times.  For getting started we'll try and keep the setup simple.<br /><br />
 
-                        You can download the desktop version here: <a href="https://apps.ankiweb.net/">Anki Desktop</a>.
+                        You can download the desktop version here: <a href="https://apps.ankiweb.net/">Anki Desktop</a>.<br /><br />
 
-                        While having a mobile app is optional, I find it very useful.  There's an unofficial version for android that is free and very popular:  <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US&gl=US">AnkiDroid for Android</a>.
+                        While having a mobile app is optional, I find it very useful.<br /><br />
 
-                        There's an Official iOS version, however it does costs $25.  If you're going to be spending the majority of your time studying using your mobile device, I <b>highly</b> recommend this version specifically: <a href="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387">AnkiMobile for iOS</a>.
+                        There's an unofficial version for android that is free and very popular:  <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US&gl=US">AnkiDroid for Android</a>.<br /><br />
+
+                        There is an Official iOS version, however it does costs $25.  If you're going to be spending the majority of your time studying using your mobile device, I <b>highly</b> recommend this version specifically: <a href="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387">AnkiMobile for iOS</a>.<br /><br />
                     </p>
 
                     <h3>Anki Customization (optional, though recommended)</h3>
@@ -36,21 +40,21 @@ export default function Japanese() {
 
                     <h3>"Low-key" Anki</h3>
                     <p>
-                        Throughout this guide and language learning process, we recommend only using the "again" and "good" buttons when grading your flashcards.  More reading about that can be found here: <a href="https://refold.la/roadmap/stage-1/a/anki-setup#Recommended-Options-Settings">Low-key Anki</a>
+                        Throughout this guide (and beyond), we recommend only using the "again" and "good" buttons when grading your flashcards.  More reading on why can be found here: <a href="https://refold.la/roadmap/stage-1/a/anki-setup#Recommended-Options-Settings">Low-key Anki</a>
                     </p>
 
                     <h2>1. Hiragana and Katakana</h2>
 
                     <h3>Hiragana</h3>
                     <p>
-                        This is the basic alphabet for Japanese.  It's best to start out by memorizing each of the characters and their sounds at least moderately well.  This will make the rest of the learning journey much easier!
+                        This is the basic alphabet for Japanese.  It's best to start out by memorizing each of the characters and their sounds at least moderately well.  This will make the rest of the learning journey much easier!<br /><br />
 
-                        There's a lot of differente Hiragana tools out there, as well as <a href="https://www.amazon.com/Hiragana-Katakana-Flashcards-Japanese-Mnemonics/dp/B07D2M1VHG/ref=sr_1_3?crid=LCNPFZET2OR7&dchild=1&keywords=hiragana+flash+cards&qid=1615520604&sprefix=hiragana%2Caps%2C190&sr=8-3">physical flashcards</a> but for a simple anki deck: <a href="https://ankiweb.net/shared/info/195754716">https://ankiweb.net/shared/info/195754716</a>.  You can download this file and double click (or open on mobile) and it will add right into Anki!
+                        There's a lot of different Hiragana learning tools out there, as well as <a href="https://www.amazon.com/Hiragana-Katakana-Flashcards-Japanese-Mnemonics/dp/B07D2M1VHG/ref=sr_1_3?crid=LCNPFZET2OR7&dchild=1&keywords=hiragana+flash+cards&qid=1615520604&sprefix=hiragana%2Caps%2C190&sr=8-3">physical flashcards</a>! For a Hiragana Anki deck you can download: <a href="https://ankiweb.net/shared/info/195754716">https://ankiweb.net/shared/info/195754716</a>. You can double click on this file (or open on mobile) and it will import right into Anki!
                     </p>
 
                     <h3>Katakana</h3>
                     <p>
-                        Katakana is just like Hiragana, except its used for "foreign" words, and the characters look somewhat similar, to very different.  The sounds in Katakana are the same as they are in Hiragana, but their use is different.  I've found a lot of people will skip on Katakana and pick it up as they go.  You can choose to skip it for now, but you will likely need to revist it at somepoint to learn it (I personally didn't learn katakana at first and did find myself stuck at a certain point and went back and just powered through it in a couple days).
+                        Katakana is just like Hiragana, except its used for "foreign" words, and the characters look somewhat similar, though very different at times.  The sounds in Katakana are the same as they are in Hiragana, but their use is different.  I've found a lot of people will skip on Katakana and pick it up as they go.  You can choose to skip it for now, but you will likely need to revist it at somepoint to learn it (I personally didn't learn katakana at first and did find myself stuck at a certain point and went back and just powered through it in a couple days).
 
                         An anki deck for Katakana can be setup just the same as our Hiragana deck: <a href="https://ankiweb.net/shared/info/183933952">https://ankiweb.net/shared/info/183933952</a>
                     </p>
@@ -61,15 +65,53 @@ export default function Japanese() {
                     <h3>N5 Level Vocab</h3>
                     <p>
                         Essentially start doing this deck daily: <a href="https://ankiweb.net/shared/info/1679429599">https://ankiweb.net/shared/info/1679429599</a><br />
-                        If you do 10 new cards daily, you'll be done with new cards in just over 3 months.
+                        If you do 10 new cards daily, you'll be done with new cards in just over 3 months (Though I'd recommend continuing to review the cards daily, as anki recommends, for at least 3 months after).
                     </p>
                     <h3>RRTK - Remembering the Kanji</h3>
                     <p>
-                        Remember the Kanji is a technique that helps to turn Kanji from hieroglyphics and make them comprehensible.  There's a lot of write-ups on the subject, but I would recommend just doing the basic 450 card deck, which should serve the purpose of making Kanji comprehensible.  If you do 5 a day alongside the N5 deck above, you'll be done in about 3 months, and it will probably take around 30 minutes a day (or less depending on how quick you go through them)!
+                        Remembering the Kanji is a technique that helps to turn Kanji from hieroglyphics and make them comprehensible.  There's a lot of write-ups on the subject, but I would recommend just doing the basic 450 card deck, which should serve the purpose of making Kanji comprehensible.  If you do 5 a day alongside the N5 deck above, you'll be done in about 3 months! <br />
 
                         <a href="https://mega.nz/file/6skmAQQY#iFR7kkJSUy64QsFY1G8ixRIk9z_yvbG6yEfWvTu8Jl4">Download the RRTK Deck Here</a>
                     </p>
 
+                    <h1>What's Next?</h1>
+                    <p>
+                        After you get through all of that, first off, congrats! You probably now know more Kanji than you ever thought possible and can even read some <a href="https://www.amazon.com/gp/product/B08FDXBPT3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Japanese short stories</a>. From this point there's a lot of routes you can take to continue your language learning journey (and this is where it starts to get fun!).  Below are some of my recommendations (In no particular order).<br />
+                        <ul>
+                            <li>You can go on and do the <a href="https://ankiweb.net/shared/info/1585001017">JLPT N4 Deck</a></li>
+                            <li>Study Grammer with <a href="http://www.guidetojapanese.org/learn/grammar">Tai Kim's Guide</a></li>
+                            <li>Jump into immersing with native content (if you haven't started already).  For more information on immersing, checkout <a href="https://refold.la/roadmap/stage-1/a/active-immersion">Refold.la</a>. A lot of our guide is based off the topics they discussed there!.</li>
+                        </ul>
+                    </p>
+
+                    <h1>Useful Tools</h1>
+                    <p>
+                        There are a lot of tools out there that can help with your language learning journey.  Anki is a pretty core tool in the steps we've done so far, but there are plenty of others that I've found helpful that I'll list below.
+                    </p>
+
+                    <h2>Jisho</h2>
+                    <p>
+                        <a href="https://jisho.org/">Jisho</a> is, simply put, a great online Japanese dictionary.
+                    </p>
+
+                    <h2>Sheodox Tool's</h2>
+                    <p>
+                        Sheodox has written some great tools surrounding Japanese language learning and I wanted to link two I've found especially useful below!
+                        <ul>
+                            <li><a href="https://github.com/sheodox/jimaku-player">Jimaku Player</a> - bring your own japanese subtitles to CrunchyRoll and VRV</li>
+                            <li><a href="https://github.com/sheodox/context.reviews">Context.reviews</a> - is a browser extension that will save your <a href="https://jisho.org/">https://jisho.org/</a> searches so you can easily make Anki cards with them later on <a href="https://context.reviews/">context.reviews</a> (I found this perfect for phrases/words I don't know that I come across while reading).</li>
+                        </ul>
+                    </p>
+
+                    <h2>Migaku's Tools</h2>
+                    <p>
+                        <a href="https://www.migaku.io/">Migaku's language learning toolkit</a> creates several tools that can aid your language learning Journey, but I just wanted to highlight a few below:
+
+                        <ul>
+                            <li><a href="https://www.migaku.io/tools-guides/migaku-japanese/quickstart">Migaku Japanese (Anki Card Type)</a> - Helps with making Anki cards. Providing pitch accent and word parsing (You can make cards that highlight the words just the like the N5 deck, automatically!).</li>
+                            <li><a href="https://www.migaku.io/tools-guides/migaku-browser-extension/quickstart">Migaku Browser Extension</a> - At the time of writing, this is still in pretty active development, but you can automatically make Anki cards using subtitles from Netflix and YouTube with the push of a button (It captures the sentence, audio, and screenshot automatically)!</li>
+                        </ul>
+                    </p>
 
                 </article>
 
