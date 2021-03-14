@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="bg-gray-200">
       <Head>
         <title>Simplified Immersion</title>
         <link rel="icon" href="/favicon.ico" />

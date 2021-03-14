@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Japanese() {
     return (
-        <div className={styles.container}>
+        <div className="bg-gray-200">
             <Head>
                 <title>Japanese</title>
                 <link rel="icon" href="/favicon.ico" />
