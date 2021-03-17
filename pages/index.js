@@ -9,6 +9,21 @@ export default function Home() {
       <Head>
         <title>Simplified Immersion</title>
         <link rel="icon" href="/favicon.ico" />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=[Tracking ID]"
+        />
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '[G-ZL8NZ1CREH]');
+        `,
+          }}
+        />
       </Head>
 
       <main className={styles.main}>
