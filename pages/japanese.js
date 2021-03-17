@@ -9,7 +9,7 @@ export default function Japanese() {
                 <link rel="icon" href="/favicon.ico" />
                 <script
                     async
-                    src="https://www.googletagmanager.com/gtag/js?id=[Tracking ID]"
+                    src="https://www.googletagmanager.com/gtag/js?id=[G-ZL8NZ1CREH]"
                 />
 
                 <script
